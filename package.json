@@ -1,7 +1,7 @@
 {
   "name": "registro_email",
   "version": "1.0.0",
-  "description": "automação",
+  "description": "Automação - Submetendo forms com dados dinámicos",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
